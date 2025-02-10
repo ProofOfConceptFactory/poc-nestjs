@@ -43,7 +43,7 @@ There's no need to configure anything before running the application. There are
 
 **Option 1. Run the application in dev mode**
 
-Start the application using the vite server:
+Start the application using the dev server:
 
 ```console
 docker compose -f docker/compose.yaml exec node pnpm start:dev
