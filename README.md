@@ -14,7 +14,7 @@ Installation
 Clone this repository:
 
 ```console
-https://github.com/abdounikarim/poc-nestjs
+https://github.com/ProofOfConceptFactory/poc-nestjs
 ```
 
 Go on the project root folder:
